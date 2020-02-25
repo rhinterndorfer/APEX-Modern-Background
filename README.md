@@ -4,7 +4,7 @@
 
 ![Screenshot](https://github.com/rhinterndorfer/APEX-Modern-Background/raw/master/screenshot.png)
 
-This plug-in is used to create PDF documents on client-side (in browser) from a html document.
+This plug-in is used to add background images and transparency to your Oralce APEX application in a view seconds.
 
 For a working demo click:  
 https://apex.oracle.com/pls/apex/f?p=105972  
