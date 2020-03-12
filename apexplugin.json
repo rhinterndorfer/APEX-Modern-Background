@@ -1,6 +1,6 @@
 {
     "name": "APEX Modern Background",
-    "version": "0.1",
+    "version": "0.2",
     "description": "This plug-in is used to give your Oracle APEX application a modern touch with background images and transparency. Login for demo is user: demo, password: 12345678",
     "keywords": ["oracle", "apex", "plugin", "dynamic action", "style", "background"],
     "homepage": "https://github.com/rhinterndorfer/APEX-Modern-Background",

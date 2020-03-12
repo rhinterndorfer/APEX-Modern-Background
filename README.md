@@ -6,6 +6,8 @@
 
 This plug-in is used to add background images and transparency to your Oralce APEX application in a view seconds.
 
+Version 0.2 adds support for animated menu icons. Please check PLUGIN settings after upgrade from version 0.1.
+
 For a working demo click:  
 https://apex.oracle.com/pls/apex/f?p=105972  
 Login is: demo / 12345678
