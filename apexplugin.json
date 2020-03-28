@@ -23,7 +23,7 @@
     "oracle": {
         "versions": ["11.2.0.2.0","18.0.0.0.0"],
         "apex": {
-            "versions": ["19.2.0.00.18"],
+            "versions": ["5.1.4.00.08","19.2.0.00.18"],
             "plugin": {
                 "internalName": "AT.RAMMELHOF.MODERNBACKGROUND",
                 "type": "dynamic action",
